@@ -191,8 +191,7 @@ else
 fi
 
 echo ""
-echo_bold "🔍 Conclusão:"
-print_servers "conclusion"
+echo_bold "✅ Script concluído com êxito."
 
 echo ""
 echo -e "${BLUE}======================= FIM DO TESTE =======================${NC}"
