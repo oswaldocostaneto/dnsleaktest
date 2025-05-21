@@ -22,8 +22,8 @@ Este é um script em Bash que permite verificar se há **vazamento de DNS (DNS L
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+git clone https://github.com/oswaldocostaneto/dnsleaktest.git
+cd dnsleaktest
 ```
 
 2. Dê permissão de execução:
